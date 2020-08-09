@@ -6,7 +6,7 @@
 
 - [ ] 重温《javascript高程》红宝书
 
-- [ ] 《javascript语言精粹》
+- [ ] 《javascript语言精粹》 铁路图版
 
 - [ ] 《javascript设计模式》 张容铭版
 
