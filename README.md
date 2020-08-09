@@ -1,11 +1,18 @@
 # Read-plan-2020
 
+- [ ] 数据结构算法  极客时间 超哥版
 
-[-] 重温《javascript 高程》红宝书、 
+- [ ] 重温《javascript高程》红宝书
 
-[-] 《javascript 语言精粹》、
+- [ ] 《javascript语言精粹》
 
-[-] 《vue 源码解析》、 
+- [ ] 《javascript设计模式》 张容铭版
 
-[-] 《javascript 框架设计》 司徒版本
+- [ ]  《深入浅出vue.js》 刘文博版
+
+- [ ] 《javascript框架设计》司徒版
+
+
+
+
 
